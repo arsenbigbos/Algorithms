@@ -1,0 +1,15 @@
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\bin\Debug\net6.0\laba 1 Polinom.exe
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\bin\Debug\net6.0\laba 1 Polinom.deps.json
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\bin\Debug\net6.0\laba 1 Polinom.runtimeconfig.json
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\bin\Debug\net6.0\laba 1 Polinom.dll
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\bin\Debug\net6.0\laba 1 Polinom.pdb
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\obj\Debug\net6.0\laba 1 Polinom.csproj.AssemblyReference.cache
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\obj\Debug\net6.0\laba 1 Polinom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\obj\Debug\net6.0\laba 1 Polinom.AssemblyInfoInputs.cache
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\obj\Debug\net6.0\laba 1 Polinom.AssemblyInfo.cs
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\obj\Debug\net6.0\laba 1 Polinom.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\obj\Debug\net6.0\laba 1 Polinom.dll
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\obj\Debug\net6.0\refint\laba 1 Polinom.dll
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\obj\Debug\net6.0\laba 1 Polinom.pdb
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\obj\Debug\net6.0\laba 1 Polinom.genruntimeconfig.cache
+C:\Users\Arsen\Desktop\KNU\Algorihm\laba 1 Polinom\laba 1 Polinom\obj\Debug\net6.0\ref\laba 1 Polinom.dll
